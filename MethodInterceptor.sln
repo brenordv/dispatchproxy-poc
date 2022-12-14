@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceMethodInterceptorPoC.API", "ServiceMethodInterceptorPoC.API\ServiceMethodInterceptorPoC.API.csproj", "{0E9C84CD-3AA9-494D-BE23-822B7F1BCEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceMethodInterceptorPoC.Cli.API.Tester", "ServiceMethodInterceptorPoC.Cli.API.Tester\ServiceMethodInterceptorPoC.Cli.API.Tester.csproj", "{B9663557-4E6A-427B-AFB8-44BBBC75AB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9C84CD-3AA9-494D-BE23-822B7F1BCEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9C84CD-3AA9-494D-BE23-822B7F1BCEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9C84CD-3AA9-494D-BE23-822B7F1BCEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9C84CD-3AA9-494D-BE23-822B7F1BCEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9663557-4E6A-427B-AFB8-44BBBC75AB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9663557-4E6A-427B-AFB8-44BBBC75AB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9663557-4E6A-427B-AFB8-44BBBC75AB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9663557-4E6A-427B-AFB8-44BBBC75AB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
